@@ -1,0 +1,1 @@
+To learn how to install this, please visit https://docs.jakehamblin.com/docs/?section=paypaltemplate
